@@ -1,0 +1,2 @@
+# XYZBank
+Practice writing autotests
